@@ -1,0 +1,26 @@
+{
+  "name": "Tom Collins",
+  "age": 25,
+  "address": {
+    "street": "Dusel Glen",
+    "city": "Zonivfe",
+    "state": "IL",
+    "zip": "58661"
+  },
+  "contact": {
+    "phone": "(237) 883-9227",
+    "servicePhone": "800265522"
+  },
+  "birthday": "1985-09-01T01:29:25.890Z",
+  "ip": "27.144.213.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Uja zebew reffom ovurifvab goprece reso rotvoc licho ripa zahe lazzinsev zito niepaje. Movuvca vam cabhoj finuwom tudsodos cesheftuw eveugbu laf pic mejiw gopocuk niipe. Mufen ange re zutup sab lamtedha waomi co rieteve vedol zopurpuz menuda gerepe hoc. Unu ukijal ic fopube vomozeh pi vas leefjet netmif uvigisha nejto vudcuk cibo le uhe fuoja.",
+    "bio": "It tep kuba cumensog hur ge duffumsug jugcuw zako cefmi kiwwoja caca. Jifuj jew cudu ribev licup fig foboszof remoza lucpuzju rudwig li waave ihukavrud jijer. Tohizzu dep tuzhe zabohu osanitfo ovo picinfaj ropafel sutiz inici fita mo. Lugab ottifco suhot hez vewho ilu nembaice rozo kece bif buaze zic teohi ugieckes. Otiimo kefgavof woive wekiv datojupo sekpoifa gobsetpar hohdil makase fo robpo rit ed tuzpog niwbobij gofkozfo. Fustututa sole lugli nen mocda suthe besi map meap libiug bu ivibofte ki uprisnok lu obofuof hepogi."
+  },
+  "apiKey": "2b2c23f4bff1a43076ee97514baff555f226bc29d17cdcad56ecc53546dac2ab",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}

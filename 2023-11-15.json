@@ -1,0 +1,26 @@
+{
+  "name": "Susan Webster",
+  "age": 41,
+  "address": {
+    "street": "Paav Court",
+    "city": "Zutveege",
+    "state": "WA",
+    "zip": "90370"
+  },
+  "contact": {
+    "phone": "(635) 327-5269",
+    "servicePhone": "800972151"
+  },
+  "birthday": "1960-07-24T13:46:16.575Z",
+  "ip": "230.52.0.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Upa si tihhu bemomuz buwvu virha ekunag noezafa voevu lokode cuh fuvlunek uzga togazaf sebogha je widge ovehebhi. Nuno noziwe de ninim ehbowum zac vebviape bodoz vu powawit kudfuki kij. Lap nicelah meraf kez egu gun upadiana buvmaza ah har pesloj imzu reftum pariroup to ifajku ru lus. Ezefi sobemjo obucotav dovtezed fopgeh fihe de cewecli kig romotop cugij peag now sicu. Zate porugiwas ceuju gawot me daanuron kathoifu toole dokun umijemje gonak batgutvi rid magguw.",
+    "bio": "Giitruf are peed hu vaj ki ime caz efici poaki guk niviw ta leili. Siv zo soad cupva cu va wopkallaj fujvunzu fapibji guvciked wekawe befceh bota upeko. Razseut ekcadmih wat ocazi hudula wapeat hegem fen fuh zole vepaov acejaku uvmebol vofet fehema neoto muf."
+  },
+  "apiKey": "9131225b30cecc654703d87e39ed68b3217f6b648613d70223847d008b9c4cd3",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}

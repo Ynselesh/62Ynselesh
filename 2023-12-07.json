@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Norton",
+  "age": 49,
+  "address": {
+    "street": "Legi Key",
+    "city": "Utsubuk",
+    "state": "AL",
+    "zip": "95648"
+  },
+  "contact": {
+    "phone": "(988) 385-9428",
+    "servicePhone": "800355484"
+  },
+  "birthday": "1989-06-21T01:43:22.998Z",
+  "ip": "23.5.72.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Cahob tuk vo ogoocu azasihzo zammaj cemu kukmih zuf ukajo datij nanfer kohla bikod zutise lofoz mab. Weamhi fuwhomi muvbuwi epa zeve umger nir cebmimih dovicgun civ gevfor cur kogbim. Pubdojno hi papiuzi jorhatuto jen ra al mufep widhamsul kak bisgodub se poziuwa cih ho.",
+    "bio": "Dejuna tebi jiegavat tolawwi ac raditod bauze re fe alosi raruw puknad fer ca wismajuk hekpi kiz. Ofifo bukerto lujumraz farla il bi joge ro kowoz olsepzi lucge jewa bebifar wojedji af giwosa jeniwar etafira. Ufbaw alkab givtucoto ju ze var fefbas aspo emlavru fubec nopotpi ihhulra ewiubvef."
+  },
+  "apiKey": "b14048854b4dde65751d247f3a28f3a451cd2b996acbd2c44ac5a81f35336012",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}

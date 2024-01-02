@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Summers",
+  "age": 19,
+  "address": {
+    "street": "Coek Key",
+    "city": "Tedramoj",
+    "state": "IL",
+    "zip": "76003"
+  },
+  "contact": {
+    "phone": "(384) 938-9930",
+    "servicePhone": "800455519"
+  },
+  "birthday": "1992-07-01T12:47:15.582Z",
+  "ip": "20.150.214.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Nemo mu jo duha jisi ob tafmem lam kerir tu kazikah lijuowe wena. Sulocuguc jugu cazirwo vokoz ri kul suflep se jevgad ifonu rulci fucedez ne hosaj giwut fig movi. Zoohbok mimnolbi ojaju galut kokafher powfig kaegeihi finjalin koz ewkijefu lesazto wuh og nivu lorbepfa huv jajcikrun ji.",
+    "bio": "Jis pacu zacvezzum kecbev no rilte faipe dandov cidmon kivokeza uzikownu nuuzja. Usi vakusufe megbo cuzaj naba uma hier le ifa uvaewij cejogdop uhulaj rir nu muweef. Pofse efocolu pub divo edfuwus zoha fawtezi zawupi tascil kejiz pen wuh te ihe munjusaj mopow towpok iduze."
+  },
+  "apiKey": "5441312293b2ed3e6a37986f36a7dd5899360680dab38d32e605aaa1f27ba98c",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}

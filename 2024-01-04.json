@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Saunders",
+  "age": 52,
+  "address": {
+    "street": "Toru Drive",
+    "city": "Duafeazu",
+    "state": "NC",
+    "zip": "32982"
+  },
+  "contact": {
+    "phone": "(902) 935-3935",
+    "servicePhone": "800592766"
+  },
+  "birthday": "2004-11-08T11:45:32.138Z",
+  "ip": "10.176.249.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Redbu fot rurdoor wagiw fos miwloz ot luvatef zunivnuc baesjes funin eliriwac. Naz soug fo zel fossal na leamoj fukede ucuel nuad boz vijunhef weresmoh amiwamu kupukpe ta esnovi. Momar mi woz ok cen peg ko of oda lal nu nuget cahpigi zij nuvcaav rujpobfi. Estil dictap nirzumfa sumot pa catzismo vunhon pejowe zuje bu gilop ferhoku agawesog ba ro nejcac bug. Kanfihric rim wuiv inuwu kuktumuli uvdidbep co ka ziezrah ehace vafiaz jifugdoz luzwumu vunuz bicwa. Elo fecaseg cias dir fofurti elo etoiku ceap ako begkidut ja hud jeno.",
+    "bio": "Vuzag aspowcik geozo fojren hec wizji jij pamvon semuf wolhogji ledel tetezib vumaca jazeco widu laz zil. Hajuet johufwuj pufcicit lebe baib erioca gu bo zabuto logugafad ze hisetre uhovu ri nu lop tanlu fipiw. Iweka arivojog ub huknus faetu vofazha ro julvil oncer vehuf hubdod suwo ecene ahe. Adtojah den zibapo fumuse mosbeb uru rivon zef fa poka rukakdur vo vohsuj tutreviv rilza suuho."
+  },
+  "apiKey": "013ded0c103b00a54a02cf1d6b53a7aed47d36c3306bec31bdcce854ca9ef95b",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Andrews",
+  "age": 43,
+  "address": {
+    "street": "Gimlos Lane",
+    "city": "Daphihzus",
+    "state": "KS",
+    "zip": "94166"
+  },
+  "contact": {
+    "phone": "(224) 768-6828",
+    "servicePhone": "800696735"
+  },
+  "birthday": "1985-06-06T14:34:27.063Z",
+  "ip": "153.232.204.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Dugin ro ciz tuv cajobhu zolzivfen zocal juplav jodi rujti in zi mu. Tisew mazfir hiwuc zu wagjasgud peba ape ajofi kopacu zejhe nentuk lerha fuzpulro. Vo hidito reh luk kunuju diwdorif dihadaf nur davkoza jamon ha va.",
+    "bio": "Wuba zohgim ju du ovi elide aci ji ezunob pupig sevgo seoftih sat ariaggoz to ropboreh gepuze nudute. Zo maetamob witnafcev tima kir zi mortel mu es dowlebha henarit omot ejabo. Nomsas vut se ojaggi non otipeso nuvag zehupivu dugali zunvu jiv nolom rarpocjuv job ugacitag. Uttulun maj osozat miposojo ubmilac su cesuc lihzelom ba ojilih maljo set nim tupdekin le."
+  },
+  "apiKey": "4912457f3feafbb187d04bca4b5d930f6fa49fdb5ef54a978a7e3d02f2963e4d",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}

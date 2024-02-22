@@ -1,0 +1,26 @@
+{
+  "name": "Beulah Buchanan",
+  "age": 42,
+  "address": {
+    "street": "Ikudo River",
+    "city": "Dizibbu",
+    "state": "NH",
+    "zip": "50480"
+  },
+  "contact": {
+    "phone": "(413) 653-1349",
+    "servicePhone": "800738224"
+  },
+  "birthday": "1998-01-13T06:34:08.286Z",
+  "ip": "160.160.117.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Otu cir magebmu potwi ah neakana uve bunohuh fo fu gukle enefun. Ar mene wolnim tanti wizob jenzi kacahne ceda vibool zid awibek gejat cej fewerazi. Huv toim bacfica wicutujid aguwesguh beswagfu la rettu vun hi udi juhcuedo rikep aftom jatop bez.",
+    "bio": "Ekzomhi bulsabut zafo ajnori foev nubaldu jepdi kocsow iti paltefkel ranpub bu. Lecnato enfef habcod ni iwasata magozdep vuntetke zi ohilsu duha hura botiil ponsin. Edevow utiezatom nof codzigopi ire guzi jotuh no jizbi wugneb lithafre ako. Sonuzugap noub gulbi oplocve riepuka vef vo rutapu jadja cevasufah sahizo ahaunli talemep cewo rirseiz liapo."
+  },
+  "apiKey": "c3f79260c9d2e6f743d81a3b8f23a48e2abff86f414beb527076c2392498fba8",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}

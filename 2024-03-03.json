@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Jimenez",
+  "age": 30,
+  "address": {
+    "street": "Jumu Place",
+    "city": "Lagsilaro",
+    "state": "WV",
+    "zip": "74908"
+  },
+  "contact": {
+    "phone": "(278) 627-2291",
+    "servicePhone": "800475426"
+  },
+  "birthday": "1971-01-23T23:14:03.645Z",
+  "ip": "192.44.89.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Kakgediz oli suvkevkih zu ugufolu ovoitbe kiscahuc ro siruja ri lummel soisol uvereaji zit hotosaaf ajmiw ku. Didpi abetoawa siet ugka noj buvpagpi ve ka uh dogo ku gifdad fu cidi pavmuh gib zawcugvug. Weedu itkef tel wazam zosuvosuv ja epumadife cog ve sebuf fom nuzkaptug it lozrij pahfeoc wagfa datnap cihsa. Hunog kenbahze tam ubaleob jaseggo kaak fe ohovamni ajvapzoh ba fu pose kizobo piv tu fizijiv pimbiw sivazjab.",
+    "bio": "Kuv muitekih biwla gikeh ude mezde formi le ratizpi meziba anduvgu bodved ka ejetijron het itaejeiz rucaklof kelec. Epooki it olihuk gawe miwkih vupde ova to cuceogo fahanjo kuara ve gef sotek. Sita zuf fopin ariuberu ites facdiesi ja geftub nur galawmiz apo fe rutad ar evepki fekak gega. Wij esuakolid henopono fid cuzat emrus umgitga cumhocfa retukag sak le zinvisri hom dihku jazfa nowtew la. Hemukiv udaiguset zuowesor mosmin fanav lovuc ro efukilo do ogunincis ber jokzimev muw."
+  },
+  "apiKey": "f462c3f10a67c8538c69ee1c4b4bfa6e3f6e92b0ea1dc173f8e13b09a43084f7",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Murray",
+  "age": 30,
+  "address": {
+    "street": "Lidcu Ridge",
+    "city": "Wowmeco",
+    "state": "NE",
+    "zip": "99968"
+  },
+  "contact": {
+    "phone": "(477) 362-3989",
+    "servicePhone": "800242838"
+  },
+  "birthday": "1963-02-12T15:04:02.246Z",
+  "ip": "81.34.172.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuf cagutju mi mumosah ci becrotfi wauf unse ga disec lu ne. Goneh lapconir nepucni pitvajel me nezpim og tabimhol durvol ivahuwfu sos bercu avo. Elnid efriwwub kivfoar zesva ipovel wub log cun egerpi murbucemu ag cuj tagsopju.",
+    "bio": "Kimuid of lub kem epe uc otaeceti vahe mu gidugo uli cotadtaw fuboken keoj ze dehuri hagvic. Gu kepluro fac wunmepoc duzo juocujo umka suswoni vocto kohonulek lizoano zekju gamofi. Ubaigzo uv wedci dij arecappeh eco zimdorem ocu gub faosouha adazam rajambut licliheb rekuni do."
+  },
+  "apiKey": "2522c8caff15ac6fdcc4ac5141c7636c85b3bf98a55ede86a4c8a91bcbbb83dc",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

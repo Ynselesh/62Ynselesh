@@ -1,0 +1,26 @@
+{
+  "name": "Mable Baker",
+  "age": 35,
+  "address": {
+    "street": "Dopgo Park",
+    "city": "Binwafal",
+    "state": "NJ",
+    "zip": "14940"
+  },
+  "contact": {
+    "phone": "(932) 422-2851",
+    "servicePhone": "800873867"
+  },
+  "birthday": "1997-08-23T06:11:29.667Z",
+  "ip": "65.221.29.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Juvneb wurof abu fafuwful avjizfus arotisdi voeslip avevaf muko kikiis sit nuj wal. Ta nehuwi gohviwiw sac lascab wase eniajecot mi fiwuji emumuiv wab ojiwah lub ifsa kofip pepu ka. Er na ji do tahho jime riib nodi sevowo hoam nopa pawufor cuce luragoz ifanez tizeros.",
+    "bio": "Gulovun dialivo buv mes jubhekti tojor ep ge nacez zalzuge biluad nud. Pemeg tu eduha nofoeco aj wah rag taseros ko wudahim vos ivapi mikoned zigdo mazso ukadavid pelwoc. Gebi wukeize sebizvi gavem wiod dadtad dav is tojow sirnogum ekuzebi poz adifow tukga kanivut hetse."
+  },
+  "apiKey": "c8601563857780ce036e853e2f36eeeae2c5873da1dcf38108b2745c30086e6a",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}

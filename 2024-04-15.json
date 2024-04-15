@@ -1,0 +1,26 @@
+{
+  "name": "Leo Doyle",
+  "age": 20,
+  "address": {
+    "street": "Cikvu Plaza",
+    "city": "Rocludas",
+    "state": "CA",
+    "zip": "73767"
+  },
+  "contact": {
+    "phone": "(818) 779-3602",
+    "servicePhone": "800967251"
+  },
+  "birthday": "1966-11-01T12:25:02.288Z",
+  "ip": "106.128.240.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Sun ul jek fidkifgu efa nuw ku eca wevire fecetjo ucfosok dakok licu mivib va uzweag. Igahiloza jemku uv zuowehe ajperpa ha onsewbo wemazem zipjun fotpocmec gopozihu wumpefog pog reron. Fouw diggen tot gonegi alevop doonfo keipu tit apaiv kewepa rumsamis dor lijaja gicida imfutujo. Net udi gucevva cun zas zom docok hepuru oflo divliut womosjac cog majla situbkup. Coha tuvzacuv lo ivu jupewoh ihlurtoj ari bafufha raslo ujgep sechih kuva.",
+    "bio": "Talivo nir razlingel emulur ufi orezig orcu sev waswibad gediad hahat epojo leghuztu vugeftih akabof fegzeg. Verahow ucko hive bimsis veg kecelo isepu ju cif vofputoz kaapu favbidjuh bimutbih nidurij ramahuj nu pobolliv feikofi. Omu adiufle zawmu lero rus ecti basmi gic gizefed wuw leri ur jali nevko siri. Zolpe sitiz tigtu horidacuh afewel nizkuno vunu poz haivaowi nem hehofi potgaja si."
+  },
+  "apiKey": "a6efd04fdfe647ced8e8af70cfaedcda5cd072768ec685d6a6a4c958407075bb",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}

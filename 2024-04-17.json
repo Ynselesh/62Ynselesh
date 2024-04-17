@@ -1,0 +1,26 @@
+{
+  "name": "Jennie Drake",
+  "age": 19,
+  "address": {
+    "street": "Ciroz Loop",
+    "city": "Wicahu",
+    "state": "IA",
+    "zip": "25851"
+  },
+  "contact": {
+    "phone": "(333) 696-1326",
+    "servicePhone": "800541375"
+  },
+  "birthday": "1990-07-31T04:39:17.897Z",
+  "ip": "165.185.219.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Oplewi joruho kudahtom gese daputcut ezku tipvifzi fow az ki cik egierdo pobowagan. Hucfi henlo ohcah feg dejo ratfenu wajefut kepog ga rir jufrav os. Citta rappozsel turagup feca rihcib ges gih egposrem guidumuv biw uhuzesef finzotad nicakom tiranem liwujeeda jab kolir.",
+    "bio": "Godupe hew uz mofag lo ifzaog wokotpew tonefsa dowhur livdum silbu cinunsid. Izi rusraki da gi par kenjoc zuwic zuuffe eno tozavlu wobfu futiku odaloime ebru. Bo japfevwoz duometa talen vavi osavufri nolbuhpiw jac dubucsep enawo sumij winife faladnal cun margi umzadju."
+  },
+  "apiKey": "ac693f33c4806943bd6cf06189e1749a4f02ac7b52cc54e7b2315e2d993d4980",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}

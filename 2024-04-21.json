@@ -1,0 +1,26 @@
+{
+  "name": "Inez Simpson",
+  "age": 38,
+  "address": {
+    "street": "Garo Junction",
+    "city": "Rowecehip",
+    "state": "WY",
+    "zip": "34130"
+  },
+  "contact": {
+    "phone": "(818) 781-2739",
+    "servicePhone": "800819923"
+  },
+  "birthday": "1975-10-29T17:09:02.349Z",
+  "ip": "207.105.123.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Jerruz lahke pigivij pu efuj murpez owlet nipmed waviteuze wi somlobhe gece loduku ece egioc ijiha zifa emjisje. Ada piep dapicten tahojuka voliwu mig sani ezimimin ti lamu riegje mor kezcecte tu zesmelfen liwzec ger. Bi zesik sup wujinauj up ne cuvdih zuheb ajicev mimisam uk uhoguras.",
+    "bio": "Savehi ojojeni kib hu wimotdiv fi cup ar wecwed onvuh ose sik. Nemavsom uz keb iwi rofhobat bantel pub jemaavu nak lad ba usepme rajpusage oneku unazo ciimije. Ri acapite zoj carewtos led onowipdi putbib wuipe gievi woja obkazun etiniga namab. Kapohudi bose pim lev ma ot jobognu so dokerobec lomni nob ezdiepe ejaedason guglensi ubiz uvakoka lebeh depkifec. Emgop bo roblap gi hovewwet uhotochi fihigjo roaga oz bo olva vaavoufi. Zak gaso mupichel erzo mal mo maok fe tili tetobug ob nemda we verigkes zame gaki nih rapuupa. Nognolejo tociozu ralpagdog zanaho luvoj po go amcil mos jemhu ruglovwu fej nasemtuk etno."
+  },
+  "apiKey": "7f7a5e256ad3acb6ebe938dd9009d02524ba33d67e0698e87eee1e83cc7397fe",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
